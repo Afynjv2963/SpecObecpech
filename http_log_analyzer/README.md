@@ -13,12 +13,6 @@ sudo apt update
 sudo apt install g++ cmake make libnlohmann-json-dev
 ```
 
-Если используешь `boost::regex` (для поддержки именованных групп):
-
-```bash
-sudo apt install libboost-regex-dev
-```
-
 ---
 
 ## ⚙️ Сборка
